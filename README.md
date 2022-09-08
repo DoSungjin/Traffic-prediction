@@ -3,6 +3,9 @@
 Again TimeSeries 
 This is about Traffic. 
 
+https://www.notion.so/Graph-plotly-4bafbae26b924d999b8b03f9a055949f 
+
+
 Project is made for Baseline_code
 
 Model is about RNN & LSTM
